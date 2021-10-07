@@ -5,7 +5,7 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
-    <h1>Hello, world!</h1>,
+    <h1>World! Hello</h1>,
     document.getElementById("root"));
 
 
